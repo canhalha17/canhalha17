@@ -1,10 +1,10 @@
 # sobre mim **GABRIEL**
-## Jogo bola
+## Jogo bola**
 - 👋 Ola, eu sou @canhalha17**
 - 👀 eu estou interessado em aprender novas linguagens
-  o meu [e-mail]
+- o meu [e-mail](batista.oliveira18@escola.pr.gov.br)
 - 🌱 eu estou recentemente aprendendo a progamar na linguagem de java script e scratch
-- 💞️ I’m looking to collaborate on ...
+- 💞️ *gosto muito de joga bola na quadra*
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
